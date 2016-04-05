@@ -1,1 +1,2 @@
-
+//Apply Button
+document.addEventListener("touchstart", function(){}, true)
