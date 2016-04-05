@@ -1,1 +1,131 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Npower Header</title>
+		
+		//<link href="css/styleSheet.css" rel="stylesheet" type="text/css">
+		//<link rel="stylesheet" type="text/css" href="CSS/Button.css">
+	//<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	</head>
+<body>
+	<!--NAV BAR-->
+	<!doctype html>
+
+		
+<div id="wrapper">
+<div id="navMenu">
+
+<ul>
+<li><a href="#">About us</a> 
+	<ul>	<!-- Create drop down-->
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+	</ul><!--End inner ul -->
+</li><!--end of main li-->
+</ul><!--End of ul-->
+
+<ul>
+<li><a href="#">Program</a> 
+	<ul>	<!-- Create drop down-->
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+	</ul><!--End inner ul -->
+</li><!--end of main li-->
+</ul><!--End of ul-->
+<ul>
+<li><a href="#">Partners</a> 
+	<ul>	<!-- Create drop down-->
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+	</ul><!--End inner ul -->
+</li><!--end of main li-->
+</ul><!--End of ul-->
+<ul>
+<li><a href="#">Get Engaged</a> 
+	<ul>	<!-- Create drop down-->
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+	</ul><!--End inner ul -->
+</li><!--end of main li-->
+</ul><!--End of ul-->
+
+<ul>
+<li><a href="#">About us</a> 
+	<ul>	<!-- Create drop down-->
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+	</ul><!--End inner ul -->
+</li><!--end of main li-->
+</ul><!--End of ul-->
+<ul>
+<li><a href="#">Location</a> 
+	<ul>	<!-- Create drop down-->
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+	</ul><!--End inner ul -->
+</li><!--end of main li-->
+</ul><!--End of ul-->
+<ul>
+<li><a href="#">Contact</a> 
+	<ul>	<!-- Create drop down-->
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+	</ul><!--End inner ul -->
+</li><!--end of main li-->
+</ul><!--End of ul-->
+<ul>
+<li><a href="#">News and Events</a> 
+	<ul>	<!-- Create drop down-->
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+		<li><a href="#">Link Item</a> </li>
+	</ul><!--End inner ul -->
+</li><!--end of main li-->
+</ul><!--End of ul-->
+
+</div><!--End of navMenu-->
+</div><!--End or wrapper-->
+
+<!-- END OF NAV -->
+
+<!-- START OF HEADER-->
+<!-- START OF HEADER-->
+	<div>
+		<header id="mainHeader">
+			<img src="images/npower.png.png" width="800px" height= "80px">
+		</header>
+	</div>
+		<!-- Test comment/ -->
+	<div class="socialMedia">
+		<a href="https://ca.linkedin.com/in/brantcourt"> <i class="fa fa-linkedin"></i><span>LinkedIn</span></a>
+		<a href="https://www.facebook.com/brant.court"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+		<a href="https://github.com/brantcourt"><i class="fa fa-youtube-play"></i><span>Youtube</span></a>
+		<a href="http://codepen.io/brantcourt/"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+		<a href="http://www.sololearn.com/Profile/575232"> <i class="fa fa-tumblr"></i><span>Tumblr</span></a>
+		<a href="#"><i class="fa fa-heart"></i></i><span>Donate</span></a>
+	</div>	
+	
+	//Apply Button
+	
+	<a href="#" class="button">Apply Now</a>
+
+	
+	</body>
+</html>
 
